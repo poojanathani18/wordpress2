@@ -1,0 +1,12 @@
+{
+  "name": "wp",
+  "version": "0.0.1",
+  "author": "pp",
+  "summary": "Installs wp.",
+  "license": "xxx",
+  "source": "https://github.com/laksh7sharma/wordpress2",
+  "dependencies": [
+    { "name":"puppetlabs-mysql"},
+    { "name":"puppet-archive"}
+  ]
+}
